@@ -8,9 +8,6 @@ The result has been the creation of Tamil e-learning applications, to help with 
 ### Solution
 TamilScribe is a Tamil e-learning Android application that makes use of Convolutional Neural Network (CNN) architecture to judge user drawings based on prompts. The app includes exercises for drawing Tamil vowels, words, constonants. In terms of gamification techniques, TamilScribe includes badges to be earned through exercises, leaderboards to track progress overtime and an 1vs1 gamemode to compete against a peer locally to write as many Tamil characters before time runs out.   
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="Images/0.png" alt="First PNG" style="width: 25%;"/>
-  <img src="Images/1.gif" alt="First GIF" style="width: 25%;"/>
-  <img src="Images/2.gif" alt="Second GIF" style="width: 25%;"/>
-  <img src="Images/3.gif" alt="Third GIF" style="width: 25%;"/>
-</div>
+
+<img src="Images/0.png" width="225"/> <img src="Images/1.gif" width="225"/> <img src="Images/2.gif" width="225"/> <img src="Images/3.gif" width="225"/> 
+
