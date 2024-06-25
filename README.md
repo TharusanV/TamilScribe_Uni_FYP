@@ -9,10 +9,10 @@ The result has been the creation of Tamil e-learning applications, to help with 
 TamilScribe is a Tamil e-learning Android application that makes use of Convolutional Neural Network (CNN) architecture to judge user drawings based on prompts. The app includes exercises for drawing Tamil vowels, consonants and words. In terms of gamification techniques, TamilScribe includes badges to be earned through exercises, leaderboards to track progress overtime and an 1vs1 gamemode to compete against a peer locally to write as many Tamil characters before time runs out.   
 
 ### Menu Screens - Title, Home, Exercises, Achievements 
-<img src="Images/0.png" width="225"/> <img src="Images/1.gif" width="225"/> <img src="Images/2.gif" width="225"/> <img src="Images/3.gif" width="225"/> 
+<img src="Images/0.png" width="200"/> <img src="Images/1.gif" width="200"/> <img src="Images/2.gif" width="200"/> <img src="Images/3.gif" width="200"/> 
 
 ### Exercises - Vowels, Consonants, Words, Freestyle
-<img src="Images/4.gif" width="225"/> <img src="Images/5.gif" width="225"/> <img src="Images/6.gif" width="225"/> <img src="Images/7.gif" width="225"/> 
+<img src="Images/4.gif" width="200"/> <img src="Images/5.gif" width="200"/> <img src="Images/6.gif" width="200"/> <img src="Images/7.gif" width="200"/> 
 
 ### Competitive 1vs1 Writing Activity
-<img src="Images/8.png" width="500"/> <img src="Images/9.png" width="500"/>
+<img src="Images/8.png" width="400"/> <img src="Images/9.png" width="400"/>
